@@ -12,7 +12,7 @@ int main() {
     }
 
     string line;
-    cout << "Conteúdo do arquivo:" << endl;
+    cout << "Conteudo do arquivo:" << endl;
     while (getline(inFile, line)) {
         cout << line << endl;
     }
